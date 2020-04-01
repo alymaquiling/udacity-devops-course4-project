@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![alymaquiling](https://circleci.com/gh/alymaquiling/udacity-devops-course4-project.svg?style=svg)](https://circleci.com/gh/alymaquiling/udacity-devops-course4-project)
 
 ## Project Overview
 
